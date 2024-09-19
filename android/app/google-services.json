@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217944956871",
+    "project_id": "spotifi2050",
+    "storage_bucket": "spotifi2050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217944956871:android:21b8003e85f9fdc9bd83e2",
+        "android_client_info": {
+          "package_name": "com.spotify20.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR2LmYgia203ESq388MNcEV28CXXP1lrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
